@@ -43,7 +43,7 @@ const projects = [
       "• Delivers an intuitive and functional solution for learners and educators."
     ],
     github: "https://github.com/akkkshat07/LearnHub",
-    image: "/assets/Learnhub.png",
+    image: "/assets/LearnHub.png",
     isVertical: false
   },
 ];
