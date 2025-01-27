@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
 import { FaGithub, FaTwitter, FaInstagram, FaCode } from 'react-icons/fa'; // Importing necessary icons
-import Socials from "@/components/socials";
+import Socials from "@/components/Socials";
 import Photo from "@/components/Photos";
 import Stats from "@/components/Stats";
 
