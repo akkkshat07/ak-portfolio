@@ -7,7 +7,85 @@ import { useState, useEffect } from "react";
 import Image from 'next/image';
 
 const projects = [
-  /* project entries unchanged */
+  {
+    num: "01",
+    title: "Cotton_doc",
+    description: [
+      "• Built an AI-driven application using TensorFlow and Jupyter Notebook to detect and classify cotton plant diseases.",
+      "• The app leverages a custom-trained CNN to analyze leaf images and categorize them into classes like Healthy, Infected-Aphids, and Bacterial Blight.",
+      "• This project highlights expertise in dataset preprocessing and model training.",
+      "• Deployed machine learning solutions for sustainable agriculture."
+    ],
+    github: "https://github.com/akkkshat07/Cotton_crop_disease_detection_using_ML",
+    image: "/assets/Cotton_doc.png",
+    isVertical: true
+  },
+  {
+    num: "02",
+    title: "ChadBot",
+    description: [
+      "• Developed a chatbot application using Flutter and Dart, designed for seamless functionality across Android, iOS, and Web platforms.",
+      "• Integrated custom launcher icons for a polished user experience.",
+      "• Created a responsive interface to ensure cross-platform compatibility.",
+      "• Demonstrated expertise in Flutter's cross-platform development capabilities and user-friendly application design."
+    ],
+    github: "https://github.com/akkkshat07/ChadBot",
+    image: "/assets/Chadbot.png",
+    isVertical: true
+  },
+  {
+    num: "03",
+    title: "LearnHub",
+    description: [
+      "• Created a Learning Management System using PHP, HTML, and CSS to streamline online education.",
+      "• The platform includes features for course management, user authentication, and interactive learning modules.",
+      "• Showcases proficiency in web development and backend integration.",
+      "• Delivers an intuitive and functional solution for learners and educators."
+    ],
+    github: "https://github.com/akkkshat07/LearnHub",
+    image: "/assets/LearnHub.png",
+    isVertical: false
+  },
+  {
+    num: "04",
+    title: "Cottonix",
+    description: [
+      "• Built a Flutter-based application to detect cotton plant diseases using a TensorFlow Lite model.",
+      "• Designed a green-themed UI with Material icons for an intuitive user experience.",
+      "• Integrated machine learning predictions for real-time disease detection.",
+      "• Showcased expertise in Flutter and TensorFlow Lite integration."
+    ],
+    github: "https://github.com/akkkshat07/Cottonix",
+    image: "/assets/Cottonix.png",
+    isVertical: true
+  },
+  {
+    num: "05",
+    title: "Exam Prediction Model",
+    description: [
+      "• Developed a Flask-based web application to predict exam performance based on input parameters.",
+      "• Implemented machine learning algorithms for accurate prediction models.",
+      "• Showcased proficiency in backend development and data-driven insights.",
+      "• Delivered a user-friendly interface for students and educators."
+    ],
+    github: "https://github.com/akkkshat07/ExamPredictionModel",
+    demo: "https://exam-score-predictor.onrender.com/",
+    image: "/assets/ExamPrediction.png",
+    isVertical: false
+  },
+  {
+    num: "06",
+    title: "FlowSync",
+    description: [
+      "• Designed a React Native application for real-time task synchronization and collaboration.",
+      "• Implemented features for task management and team coordination.",
+      "• Showcased expertise in mobile app development and React Native.",
+      "• Delivered a seamless user experience with responsive design."
+    ],
+    github: "https://github.com/akkkshat07/FlowSync",
+    image: "/assets/FlowSync.png",
+    isVertical: true
+  }
 ];
 
 const TypeWriter = ({ text, delay }) => {
