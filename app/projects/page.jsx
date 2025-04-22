@@ -83,7 +83,7 @@ const projects = [
       "• Delivered a seamless user experience with responsive design."
     ],
     github: "https://github.com/akkkshat07/FlowSync",
-    image: "/assets/FlowSync.png",
+    image: "/assets/FlowSync.jpg",
     isVertical: true
   }
 ];
