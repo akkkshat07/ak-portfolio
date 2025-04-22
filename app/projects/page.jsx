@@ -55,7 +55,7 @@ const projects = [
       "• Integrated machine learning predictions for real-time disease detection.",
       "• Showcased expertise in Flutter and TensorFlow Lite integration."
     ],
-    github: "https://github.com/akkkshat07/Cottonix",
+    github: "https://github.com/akkkshat07/Cottonix.jpg",
     image: "/assets/Cottonix.png",
     isVertical: true
   },
