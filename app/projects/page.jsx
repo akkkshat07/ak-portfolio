@@ -46,6 +46,45 @@ const projects = [
     image: "/assets/LearnHub.png",
     isVertical: false
   },
+  {
+    num: "04",
+    title: "Cottonix",
+    description: [
+      "• Built a Flutter-based application to detect cotton plant diseases using a TensorFlow Lite model.",
+      "• Designed a green-themed UI with Material icons for an intuitive user experience.",
+      "• Integrated machine learning predictions for real-time disease detection.",
+      "• Showcased expertise in Flutter and TensorFlow Lite integration."
+    ],
+    github: "https://github.com/akkkshat07/Cottonix",
+    image: "/assets/Cottonix.png",
+    isVertical: true
+  },
+  {
+    num: "05",
+    title: "Exam Prediction Model",
+    description: [
+      "• Developed a Flask-based web application to predict exam performance based on input parameters.",
+      "• Implemented machine learning algorithms for accurate prediction models.",
+      "• Showcased proficiency in backend development and data-driven insights.",
+      "• Delivered a user-friendly interface for students and educators."
+    ],
+    github: "https://github.com/akkkshat07/ExamPredictionModel",
+    image: "/assets/ExamPrediction.png",
+    isVertical: false
+  },
+  {
+    num: "06",
+    title: "FlowSync",
+    description: [
+      "• Designed a React Native application for real-time task synchronization and collaboration.",
+      "• Implemented features for task management and team coordination.",
+      "• Showcased expertise in mobile app development and React Native.",
+      "• Delivered a seamless user experience with responsive design."
+    ],
+    github: "https://github.com/akkkshat07/FlowSync",
+    image: "/assets/FlowSync.png",
+    isVertical: true
+  }
 ];
 
 const TypeWriter = ({ text, delay }) => {
