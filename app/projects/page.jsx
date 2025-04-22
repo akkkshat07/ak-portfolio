@@ -56,7 +56,7 @@ const projects = [
       "• Showcased expertise in Flutter and TensorFlow Lite integration."
     ],
     github: "https://github.com/akkkshat07/Cottonix",
-    image: "/assets/Cottonix.png",
+    image: "/assets/Cottonix.jpg",
     isVertical: true
   },
   {
@@ -79,7 +79,7 @@ const projects = [
     description: [
       "• Designed a React Native application for real-time task synchronization and collaboration.",
       "• Implemented features for task management and team coordination.",
-      ""• Showcased expertise in mobile app development and React Native.",
+      "• Showcased expertise in mobile app development and React Native.",
       "• Delivered a seamless user experience with responsive design."
     ],
     github: "https://github.com/akkkshat07/FlowSync",
