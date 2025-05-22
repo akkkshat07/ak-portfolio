@@ -56,7 +56,7 @@ const projects = [
       "• Showcased expertise in Flutter and TensorFlow Lite integration."
     ],
     github: "https://github.com/akkkshat07/Cotton_crop_disease_detection_using_ML.git",
-    image: "public/assets/Cottonix.jpg",
+    image: "/assets/Cottonix.jpg",
     isVertical: true
   },
   {
@@ -68,7 +68,7 @@ const projects = [
       "• Showcased proficiency in backend development and data-driven insights.",
       "• Delivered a user-friendly interface for students and educators."
     ],
-    github: "https://github.com/akkkshat07/ExamPredictionModel",
+    github: "https://exam-score-predictor.onrender.com/",
     demo: "https://exam-score-predictor.onrender.com/",
     image: "/assets/ExamPrediction.png",
     isVertical: false
@@ -83,7 +83,7 @@ const projects = [
       "• Delivered a seamless user experience with responsive design."
     ],
     github: "https://github.com/akkkshat07/FlowSync",
-    image: "public/assets/FlowSync.jpg",
+    image: "/assets/FlowSync.jpg",
     isVertical: true
   }
 ];
