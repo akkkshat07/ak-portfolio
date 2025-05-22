@@ -55,8 +55,8 @@ const projects = [
       "• Integrated machine learning predictions for real-time disease detection.",
       "• Showcased expertise in Flutter and TensorFlow Lite integration."
     ],
-    github: "https://github.com/akkkshat07/Cottonix.jpg",
-    image: "/assets/Cottonix.png",
+    github: "https://github.com/akkkshat07/Cotton_crop_disease_detection_using_ML.git",
+    image: "public/assets/Cottonix.jpg",
     isVertical: true
   },
   {
@@ -83,7 +83,7 @@ const projects = [
       "• Delivered a seamless user experience with responsive design."
     ],
     github: "https://github.com/akkkshat07/FlowSync",
-    image: "/assets/FlowSync.png",
+    image: "public/assets/FlowSync.jpg",
     isVertical: true
   }
 ];
